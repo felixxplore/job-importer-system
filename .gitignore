@@ -1,2 +1,8 @@
-.env
-node_modules
+# Env
+.env*
+# Node
+node_modules/
+/client/.next/
+/server/node_modules/
+# Docker
+*.log
